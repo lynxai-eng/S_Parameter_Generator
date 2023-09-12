@@ -1,0 +1,4 @@
+file_name,Signal_width,Shield_width,Signal_to_shield_spacing
+file_info,input,input,input
+./example/Example_1.s4p,0.8,0.4,2.4
+./example/Example_2.s4p,2,0,2
